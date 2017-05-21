@@ -31,5 +31,7 @@ INSTALLATION NOTE
 		>
 	5. Restart terminal and type laravel in the terminal to test if it works(it will display a list of commands.)
 
-	6. To test create a new app by typing "Laravel new", then type "php artisan serve" and open browser, type "localhost:8000" to check. Installation complete.
+	6. To test create a new app by typing "Laravel new", then type "php artisan serve" and then open browser, type "localhost:8000" in your browser to check basic default website by Laravel. 
+
+	7. Installation complete.
 	
